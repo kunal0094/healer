@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav ul li a i{
+ font-size: 15px;
+}
+
+.action{
+color: #3ca2c2;
+}
+.contact-btn button{
+    background-color: #3ca2c2;
+    color: #fff;
+    font-size: 19px;
+}
+
+/* --------------------------------------------second----------------------------- */
+
+.bg-img{
+background-image: url(images/first-bg.jpg);
+height: 750px;
+width: 100%;
+background-position: center;
+background-size: cover;
+/* margin-left: -13px; */
+}
+
+
+/* ---------------------------------------------third----------------------- */
+
+.heading{
+    font-size: 40px;
+}
+
+
+/* --------------------------------four---------------------------------- */
+
+.img{
+    border-top-right-radius: 10%;
+    border-bottom-right-radius: 10%;
+    margin-left: -12px;
+}
+
